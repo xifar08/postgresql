@@ -1,1 +1,0 @@
-# on va bosser sur postgresql avec de la ligne de commande
